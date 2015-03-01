@@ -1,0 +1,11 @@
+name: PlugDj
+main: PlugDj
+description: requested plugin made by undeaD_D
+version: 1.0
+author: DieFriiks
+authors: [DieFriiks, undeaD_D]
+
+commands:
+  plugdj:
+    usage: /plugdj <reload/reset>
+    description: Admin commands for PlugDj
