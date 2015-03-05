@@ -10,9 +10,8 @@ import org.bukkit.event.player.PlayerJoinEvent;
 
 public class Updater implements Listener{
 	private PlugDj plugin;
-	private int version = 1;
+	private int version = 4;
 
-	@SuppressWarnings("deprecation")
 	public Updater(PlugDj plugin) {
 		this.plugin = plugin;
 
