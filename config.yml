@@ -1,4 +1,7 @@
 debug: false
+port: 1338
+hash: '<insert hash here>'
 msg:
   prefix: '&7[&cPlugDj&7]'
   noperm: '&c/You do not have enough access privileges for this operation.'
+  format: '%PREFIX% &7[&c%DJNAME%&7] %TITLE%, by %AUTHOR%'
